@@ -17,6 +17,6 @@ SSH services to be running on both the client and server. (port 443 - Server, po
 of each SSHD_config is required in order to permit SSH-RSA authentication.
 
 
-     *These script should only be used for educational purposes, within the law.*
+     *These scripts should only be used for educational purposes, within the law.*
      Author: forScience james@forscience.xyz
 
