@@ -1,4 +1,4 @@
-#	$OpenBSD: sshd_config,v 1.100 2016/08/15 12:32:04 naddy Exp $
+#	AN EXAMPLE SSHD_CONFIG FOR USE WITH THE RAAED Client
 
 # This is the sshd server system-wide configuration file.  See
 # sshd_config(5) for more information.
@@ -10,7 +10,7 @@
 # possible, but leave them commented.  Uncommented options override the
 # default value.
 
-Port 22
+Port 22 # Port 443 for RAAEDServer.py
 #AddressFamily any
 #ListenAddress 0.0.0.0
 #ListenAddress ::
